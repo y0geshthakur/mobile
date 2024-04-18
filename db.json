@@ -1,23 +1,23 @@
 {
 
-    "mobiles": [
+    "games": [
     {
-      "brand": "Samsung",
-      "model": "Galaxy S21 Ultra",
-      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-ultra-5g/",
-      "image": "https://unboxyourmobile.com/image/cache/catalog/gogole/S21%20ULTRA%205G-1000x1000.jpg"
+      "name": "Grand Theft Auto V",
+      "company": "Rockstar Games",
+      "url": "https://www.rockstargames.com/gta-v",
+      "image": "https://wallpapers.com/images/featured/gta-5-qpjtjdxwbwrk4gyj.webp"
     },
     {
-      "brand": "Google",
-      "model": "Pixel 6 Pro",
-      "url": "https://store.google.com/us/product/pixel_6_pro",
-      "image": "https://m.media-amazon.com/images/I/71FpXTBHDnL._SX679_.jpg"
+      "name": "Counter-Strike: Global Offensive",
+      "company": "Valve Corporation",
+      "url": "https://blog.counter-strike.net/",
+      "image": "https://media.steampowered.com/apps/csgo/blog/images/fb_image.png?v=6"
     },
     {
-      "brand": "Apple",
-      "model": "iPhone 12",
-      "url": "https://www.apple.com/iphone-13/",
-      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/1ed5895d-b2c4-4056-a482-41b1a7e45f5221170555.jpg"
+      "name": "Valorant",
+      "company": "Riot Games",
+      "url": "https://playvalorant.com/en-gb/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeY-NMmLdweAuEfmLm8JW-d2frgu85I6algbM8GPvUQ&s"
     }
 ]
 }
