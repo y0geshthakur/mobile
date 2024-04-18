@@ -1,0 +1,23 @@
+{
+
+    "mobiles": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-s21-ultra-5g/",
+      "image": "https://unboxyourmobile.com/image/cache/catalog/gogole/S21%20ULTRA%205G-1000x1000.jpg"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "url": "https://store.google.com/us/product/pixel_6_pro",
+      "image": "https://m.media-amazon.com/images/I/71FpXTBHDnL._SX679_.jpg"
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "url": "https://www.apple.com/iphone-13/",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/1ed5895d-b2c4-4056-a482-41b1a7e45f5221170555.jpg"
+    }
+]
+}
